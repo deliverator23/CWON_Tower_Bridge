@@ -18,12 +18,35 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>CWON_Tower_Bridge</AssemblyName>
     <RootNamespace>CWON_Tower_Bridge</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="TB_DB"><File>Gameplay/Tower_Bridge_Gameplay.sql</File></UpdateDatabase><UpdateArt id="TB_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="TB_Text"><File>Text/Tower_Bridge_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="CWON_Tower_Bridge.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Buildings.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\StrategicView.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\WonderMovie.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Gameplay\Tower_Bridge_Gameplay.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Tower_Bridge_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Gameplay\" />
+    <Folder Include="Text\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>

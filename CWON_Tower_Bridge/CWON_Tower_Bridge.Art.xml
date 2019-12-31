@@ -60,13 +60,17 @@
     <Element>
       <consumerName text="StrategicView_Properties"/>
       <relativeArtDefPaths>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="StrategicView_Sprite"/>
       <relativeArtDefPaths>
+        <Element text="Buildings.artdef"/>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Sprite"/>
@@ -77,6 +81,7 @@
     <Element>
       <consumerName text="StrategicView_Route"/>
       <relativeArtDefPaths>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Route"/>
@@ -87,6 +92,7 @@
     <Element>
       <consumerName text="StrategicView_TerrainType"/>
       <relativeArtDefPaths>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_TerrainBlend"/>
@@ -99,6 +105,7 @@
     <Element>
       <consumerName text="StrategicView_TerrainBlendCorners"/>
       <relativeArtDefPaths>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_TerrainBlendCorners"/>
@@ -109,6 +116,7 @@
     <Element>
       <consumerName text="StrategicView_TerrainBlend"/>
       <relativeArtDefPaths>
+        <Element text="StrategicView.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_TerrainBlend"/>
@@ -159,6 +167,7 @@
     <Element>
       <consumerName text="WonderMovie"/>
       <relativeArtDefPaths>
+        <Element text="WonderMovie.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="WonderMovie"/>
@@ -229,70 +238,82 @@
       <consumerName text="Camera"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Terrains"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Features"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Civilizations"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Cultures"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Resources"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Improvements"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="WorldView_Translate"/>
       <relativeArtDefPaths>
+        <Element text="Buildings.artdef"/>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="StrategicView_Translate"/>
       <relativeArtDefPaths>
+        <Element text="Buildings.artdef"/>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="Audio"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
@@ -329,27 +350,32 @@
       <consumerName text="Lenses"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="IndirectGrid"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="AOSystem"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="GenericObject"/>
-      <relativeArtDefPaths/>
-      <libraryDependencies/>
+      <relativeArtDefPaths>
+      </relativeArtDefPaths>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
@@ -374,7 +400,8 @@
       <consumerName text="UIPreview"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
@@ -390,14 +417,16 @@
       <consumerName text="Minimap"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
       <consumerName text="UnitSimulation"/>
       <relativeArtDefPaths>
       </relativeArtDefPaths>
-      <libraryDependencies/>
+      <libraryDependencies>
+      </libraryDependencies>
       <loadsLibraries>false</loadsLibraries>
     </Element>
     <Element>
@@ -500,6 +529,7 @@
     <Element>
       <libraryName text="StrategicView_Sprite"/>
       <relativePackagePaths>
+        <Element text="strategicview/strategicview_buildings"/>
       </relativePackagePaths>
     </Element>
     <Element>
@@ -535,6 +565,7 @@
     <Element>
       <libraryName text="TileBase"/>
       <relativePackagePaths>
+        <Element text="landmarks/tilebases"/>
       </relativePackagePaths>
     </Element>
     <Element>
@@ -545,6 +576,7 @@
     <Element>
       <libraryName text="UITexture"/>
       <relativePackagePaths>
+        <Element text="UITextures"/>
       </relativePackagePaths>
     </Element>
     <Element>
@@ -570,6 +602,7 @@
     <Element>
       <libraryName text="WonderMovie"/>
       <relativePackagePaths>
+        <Element text="WonderMovie"/>
       </relativePackagePaths>
     </Element>
   </gameLibraries>
