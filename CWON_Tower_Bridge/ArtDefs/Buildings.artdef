@@ -15,7 +15,7 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BoolValue">
-							<m_bValue>true</m_bValue>
+							<m_bValue>false</m_bValue>
 							<m_ParamName text="IsWonderBuilding"/>
 						</Element>
 						<Element class="AssetObjects..BoolValue">
@@ -27,7 +27,7 @@
 							<m_ParamName text="AffectsDistrictBuildingSet"/>
 						</Element>
 						<Element class="AssetObjects..StringValue">
-							<m_Value text="NONE"/>
+							<m_Value text="AVERAGE"/>
 							<m_ParamName text="TerrainFollowMode"/>
 						</Element>
 						<Element class="AssetObjects..StringValue">
@@ -37,6 +37,10 @@
 						<Element class="AssetObjects..BoolValue">
 							<m_bValue>false</m_bValue>
 							<m_ParamName text="UsesDecalMaterialOverrides"/>
+						</Element>
+						<Element class="AssetObjects..StringValue">
+							<m_Value text=""/>
+							<m_ParamName text="AttachmentPointName"/>
 						</Element>
 					</m_Values>
 				</m_Fields>
@@ -163,4 +167,3 @@
 		</Element>
 	</m_RootCollections>
 </AssetObjects..ArtDefSet>
-

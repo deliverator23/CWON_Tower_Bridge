@@ -14,7 +14,7 @@
 			<Element>
 				<m_Fields>
 					<m_Values>
-						<Element class="AssetObjects:BLPEntryValue">
+						<Element class="AssetObjects..BLPEntryValue">
 							<m_EntryName text="BUILDING_TOWER_BRIDGE"/>
 							<m_XLPClass text="WonderMovie"/>
 							<m_XLPPath text="WonderMovie.xlp"/>
@@ -37,7 +37,7 @@
 							<m_ParamName text="FOVCurve"/>
 						</Element>
 						<Element class="AssetObjects..ArtDefReferenceValue">
-							<m_ElementName text="DEFAULT"/>
+							<m_ElementName text="DEFAULT_NIGHT"/>
 							<m_RootCollectionName text="TimeOfDayCurves"/>
 							<m_ArtDefPath text="WonderMovie.artdef"/>
 							<m_CollectionIsLocked>false</m_CollectionIsLocked>
@@ -54,42 +54,42 @@
 						</Element>
 						<Element class="AssetObjects..BoolValue">
 							<m_bValue>true</m_bValue>
-							<m_ParamName text="bAlignWithRiver"/>
-						</Element>
-						<Element class="AssetObjects..BoolValue">
-							<m_bValue>true</m_bValue>
 							<m_ParamName text="FlattensTerrain"/>
 						</Element>
 						<Element class="AssetObjects..BoolValue">
 							<m_bValue>false</m_bValue>
 							<m_ParamName text="bAlignWithCoast"/>
 						</Element>
+						<Element class="AssetObjects..BoolValue">
+							<m_bValue>false</m_bValue>
+							<m_ParamName text="bAlignWithRiver"/>
+						</Element>
 						<Element class="AssetObjects..IntValue">
-							<m_nValue>7</m_nValue>
+							<m_nValue>10</m_nValue>
 							<m_ParamName text="MinVisualProgress"/>
 						</Element>
 						<Element class="AssetObjects..IntValue">
-							<m_nValue>87</m_nValue>
+							<m_nValue>96</m_nValue>
 							<m_ParamName text="MaxVisualProgress"/>
 						</Element>
 						<Element class="AssetObjects..IntValue">
-							<m_nValue>13</m_nValue>
+							<m_nValue>25</m_nValue>
 							<m_ParamName text="UnitHiddenThreshold"/>
 						</Element>
 						<Element class="AssetObjects..ArtDefReferenceValue">
 							<m_ElementName text="DEFAULT"/>
 							<m_RootCollectionName text="TimeLapse"/>
-							<m_ArtDefPath text=""/>
+							<m_ArtDefPath text="WonderMovie.artdef"/>
 							<m_CollectionIsLocked>false</m_CollectionIsLocked>
-							<m_TemplateName text=""/>
+							<m_TemplateName text="WonderMovie"/>
 							<m_ParamName text="TimeLapse"/>
 						</Element>
 						<Element class="AssetObjects..StringValue">
-							<m_Value text="NONE"/>
+							<m_Value text="BRIDGE"/>
 							<m_ParamName text="Alignment"/>
 						</Element>
 						<Element class="AssetObjects..BoolValue">
-							<m_bValue>true</m_bValue>
+							<m_bValue>false</m_bValue>
 							<m_ParamName text="FollowTerrainHeight"/>
 						</Element>
 					</m_Values>
