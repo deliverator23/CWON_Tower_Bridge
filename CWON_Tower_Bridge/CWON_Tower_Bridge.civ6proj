@@ -39,6 +39,9 @@
     <Content Include="Gameplay\Tower_Bridge_Gameplay.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Icons\Tower_Bridge_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Text\Tower_Bridge_Text.xml">
       <SubType>Content</SubType>
     </Content>
@@ -46,6 +49,7 @@
   <ItemGroup>
     <Folder Include="ArtDefs\" />
     <Folder Include="Gameplay\" />
+    <Folder Include="Icons\" />
     <Folder Include="Text\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
