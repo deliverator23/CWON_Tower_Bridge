@@ -5,7 +5,7 @@
             <Text>Tower Bridge</Text>
         </Row>
         <Row Tag="LOC_BUILDING_TOWER_BRIDGE_DESCRIPTION">
-            <Text>+10% Production in cities on Capital Continent and +10% Gold in cities not on Capital Continent.</Text>
+            <Text>+10% Production in cities on Capital Continent and +10% Gold in cities not on Capital Continent. Awards +3 Coal per turn. Land units can cross without embarking. Works like a modern road and creates roads (if not present) in the land tiles on either ends. It must be built on a Coast tile where it must run straight across the hex between two land tiles directly opposite one another and at least one water tile must be adjacent to each end of the bridge. It cannot be built on a Lake.</Text>
         </Row>
         <Row Tag="LOC_BUILDING_TOWER_BRIDGE_QUOTE">
             <Text>"The statesmen who construct, and the warriors who achieve, are only influenced by the instinct of power, and animated by the love of country. Those are the feelings and those the methods which form empires." - Benjamin Disraeli</Text>
