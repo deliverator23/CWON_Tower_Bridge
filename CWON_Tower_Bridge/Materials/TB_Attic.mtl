@@ -3,12 +3,12 @@
     <m_CookParams>
         <m_Values>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="attic"/>
+                <m_ObjectName text="Attic"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="BaseColor"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="Flat_Normal_512"/>
+                <m_ObjectName text="Attic_n"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Normal"/>
             </Element>
@@ -44,6 +44,16 @@
                 <m_ObjectName text=""/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Opacity"/>
+            </Element>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="Attic_L"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="LightMap"/>
+            </Element>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="Attic_E"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="Emissive"/>
             </Element>
         </m_Values>
     </m_CookParams>
