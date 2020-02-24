@@ -41,11 +41,6 @@
                 <m_ParamName text="Translucency"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text=""/>
-                <m_eObjectType>TEXTURE</m_eObjectType>
-                <m_ParamName text="Opacity"/>
-            </Element>
-            <Element class="AssetObjects..ObjectValue">
                 <m_ObjectName text="Main_Walls_L"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="LightMap"/>
