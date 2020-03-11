@@ -45,6 +45,16 @@
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Opacity"/>
             </Element>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="Chains_L"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="LightMap"/>
+            </Element>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="Chains_E"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="Emissive"/>
+            </Element>
         </m_Values>
     </m_CookParams>
     <m_Version>
