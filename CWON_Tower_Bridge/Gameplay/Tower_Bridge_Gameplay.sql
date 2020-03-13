@@ -18,7 +18,7 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_GR
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_TOWER_BRIDGE', 'TOWER_BRIDGE_GRANT_COAL_PER_TURN');
 
 
--- +10% Production in cities on Capital Continent and +10% Gold in cities not on Capital Continent
+-- +8% Production in cities on Capital Continent and +8% Gold in cities not on Capital Continent
 INSERT INTO Requirements (RequirementId, RequirementType) VALUES ('REQUIRES_CITY_IS_OWNER_CAPITAL_CONTINENT', 'REQUIREMENT_CITY_IS_OWNER_CAPITAL_CONTINENT');
 
 INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
@@ -43,10 +43,10 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CI
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITIES_GOLD', 'ModifierId', 'TOWER_BRIDGE_CITY_GOLD');
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_PRODUCTION', 'YieldType', 'YIELD_PRODUCTION');
-INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_PRODUCTION', 'Amount', 10);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_PRODUCTION', 'Amount', 8);
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_GOLD', 'YieldType', 'YIELD_GOLD');
-INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_GOLD', 'Amount', 10);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('TOWER_BRIDGE_CITY_GOLD', 'Amount', 8);
 
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_TOWER_BRIDGE', 'TOWER_BRIDGE_CITIES_PRODUCTION');
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_TOWER_BRIDGE', 'TOWER_BRIDGE_CITIES_GOLD');
