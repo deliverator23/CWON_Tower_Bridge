@@ -65,7 +65,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="21"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp1"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -76,7 +76,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="22"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp2"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -87,7 +87,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="23"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp3"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -98,7 +98,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="24"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp4"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -109,7 +109,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="25"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp5"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -120,9 +120,31 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="26"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp6"/>
+								<m_fStartTime>-0.007407</m_fStartTime>
+								<m_fDuration>-1.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="27"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="lamp7"/>
+								<m_fStartTime>-0.007407</m_fStartTime>
+								<m_fDuration>-1.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="28"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="lamp8"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
 								<m_fDuration>-1.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
@@ -206,7 +228,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="11"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp1"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -217,7 +239,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="12"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp2"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -228,7 +250,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="13"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp3"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -239,7 +261,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="14"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp4"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -250,7 +272,7 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="15"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp5"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
@@ -261,9 +283,31 @@
 								<m_eType>ASSET_FX</m_eType>
 								<m_Name text="16"/>
 								<m_Description text=""/>
-								<m_FXName text="FX_Light_Broadway_Spotlight_AlwaysOn"/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text="lamp6"/>
+								<m_fStartTime>-0.007407</m_fStartTime>
+								<m_fDuration>-1.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="17"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="lamp7"/>
+								<m_fStartTime>-0.007407</m_fStartTime>
+								<m_fDuration>-1.000000</m_fDuration>
+								<m_nTrackIndex>0</m_nTrackIndex>
+							</Element>
+							<Element>
+								<m_eType>ASSET_FX</m_eType>
+								<m_Name text="18"/>
+								<m_Description text=""/>
+								<m_FXName text="FX_Light_Broadway_Spotlight"/>
+								<m_CollectionName text=""/>
+								<m_AttachmentPointName text="lamp8"/>
 								<m_fStartTime>-0.007407</m_fStartTime>
 								<m_fDuration>-1.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
