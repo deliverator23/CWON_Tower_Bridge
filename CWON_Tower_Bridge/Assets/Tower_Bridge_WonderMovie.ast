@@ -1007,6 +1007,70 @@
 				<m_GeoName text="WON_Hermitage_Movie_Camera"/>
 				<m_GroupStates/>
 			</Element>
+			<m_GeometrySet>
+				<m_ModelInstances>
+					<Element>
+						<m_Name text="WON_Tower_Bridge_HMedit"/>
+						<m_GeoName text="WON_Tower_Bridge_HMedit"/>
+						<m_GroupStates>
+							<Element>
+								<m_Values>
+									<m_Values>
+										<Element class="AssetObjects:ObjectValue">
+											<m_ObjectName text="WON_Tower_Bridge_HMedit"/>
+											<m_eObjectType>MATERIAL</m_eObjectType>
+											<m_ParamName text="Material"/>
+										</Element>
+										<Element class="AssetObjects..BoolValue">
+											<m_bValue>true</m_bValue>
+											<m_ParamName text="Visible"/>
+										</Element>
+									</m_Values>
+								</m_Values>
+								<m_GroupName text="WON_Tower_Bridge_HMedit"/>
+								<m_MeshName text="HMEdit_Plane"/>
+								<m_StateName text="Unworked"/>
+							</Element>
+							<Element>
+								<m_Values>
+									<m_Values>
+										<Element class="AssetObjects:ObjectValue">
+											<m_ObjectName text="WON_Tower_Bridge_HMedit"/>
+											<m_eObjectType>MATERIAL</m_eObjectType>
+											<m_ParamName text="Material"/>
+										</Element>
+										<Element class="AssetObjects..BoolValue">
+											<m_bValue>true</m_bValue>
+											<m_ParamName text="Visible"/>
+										</Element>
+									</m_Values>
+								</m_Values>
+								<m_GroupName text="WON_Tower_Bridge_HMedit"/>
+								<m_MeshName text="HMEdit_Plane"/>
+								<m_StateName text="Worked"/>
+							</Element>
+							<Element>
+								<m_Values>
+									<m_Values>
+										<Element class="AssetObjects:ObjectValue">
+											<m_ObjectName text="WON_Tower_Bridge_HMedit"/>
+											<m_eObjectType>MATERIAL</m_eObjectType>
+											<m_ParamName text="Material"/>
+										</Element>
+										<Element class="AssetObjects..BoolValue">
+											<m_bValue>true</m_bValue>
+											<m_ParamName text="Visible"/>
+										</Element>
+									</m_Values>
+								</m_Values>
+								<m_GroupName text="WON_Tower_Bridge_HMedit"/>
+								<m_MeshName text="HMEdit_Plane"/>
+								<m_StateName text="Ruined"/>
+							</Element>
+						</m_GroupStates>
+					</Element>
+				</m_ModelInstances>
+			</m_GeometrySet>
 			<Element>
 				<m_Name text="WON_Dummy"/>
 				<m_GeoName text="WON_Dummy"/>
