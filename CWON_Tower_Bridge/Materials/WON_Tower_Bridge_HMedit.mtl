@@ -8,11 +8,11 @@
 				<m_ParamName text="HeightTexture"/>
 			</Element>
 			<Element class="AssetObjects..FloatValue">
-				<m_fValue>0.000000</m_fValue>
+				<m_fValue>-3.5</m_fValue>
 				<m_ParamName text="MinHeight"/>
 			</Element>
 			<Element class="AssetObjects..FloatValue">
-				<m_fValue>18.000000</m_fValue>
+				<m_fValue>3.5</m_fValue>
 				<m_ParamName text="MaxHeight"/>
 			</Element>
 		</m_Values>
