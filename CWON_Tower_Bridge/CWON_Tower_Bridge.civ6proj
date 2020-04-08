@@ -6,9 +6,9 @@
     <Guid>1cfe2a52-233b-4d4c-8bdf-209ec10352c1</Guid>
     <ProjectGuid>15f1ec3a-1d70-4e13-bf96-205034f033e9</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Tower Bridge</Teaser>
-    <Description>Tower Bridge</Description>
-    <Authors>Del</Authors>
+    <Teaser>Adds Tower Bridge as a World Wonder</Teaser>
+    <Description>Adds Tower Bridge as a World Wonder</Description>
+    <Authors>Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
@@ -18,7 +18,7 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>CWON_Tower_Bridge</AssemblyName>
     <RootNamespace>CWON_Tower_Bridge</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="TB_DB"><File>Gameplay/Tower_Bridge_Gameplay.sql</File></UpdateDatabase><UpdateArt id="TB_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="TB_Text"><File>Text/Tower_Bridge_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="TB_DB"><File>Gameplay/Tower_Bridge_Gameplay.sql</File></UpdateDatabase><UpdateArt id="TB_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="TB_Text"><File>Text/Tower_Bridge_Text.xml</File></UpdateText><UpdateIcons id="TB_Icons"><File>Icons/Tower_Bridge_Icons.xml</File></UpdateIcons></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
