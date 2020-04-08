@@ -3,7 +3,7 @@
     <m_CookParams>
         <m_Values>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="pavement"/>
+                <m_ObjectName text="Pavement"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="BaseColor"/>
             </Element>
