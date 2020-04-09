@@ -3,7 +3,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="WON_Tower_Bridge_HMedit"/>
+				<m_ObjectName text="WON_Tower_Bridge_HMedit_4"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="HeightTexture"/>
 			</Element>
