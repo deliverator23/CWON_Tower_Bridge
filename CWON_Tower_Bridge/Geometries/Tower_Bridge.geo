@@ -116,6 +116,8 @@
     <m_Bones>
         <Element text="Fbx_Root"/>
         <Element text="tower bridge"/>
+        <Element text="Road_CP1"/>
+        <Element text="Road_CP2"/>
     </m_Bones>
     <m_ModelName text="Fbx_Root"/>
     <m_SourceFilePath text=""/>
