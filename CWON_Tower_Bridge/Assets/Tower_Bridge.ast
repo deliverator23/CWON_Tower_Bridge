@@ -33,97 +33,7 @@
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Islands"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Islands"/>
-						<m_MeshName text="Islands"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Islands"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Islands"/>
-						<m_MeshName text="Islands"/>
-						<m_StateName text="Worked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Islands"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Islands"/>
-						<m_MeshName text="Islands"/>
-						<m_StateName text="Pillaged"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Islands"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Islands"/>
-						<m_MeshName text="Islands"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Islands"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Islands"/>
-						<m_MeshName text="Islands"/>
-						<m_StateName text="Construction"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
+									<m_ObjectName text="TB_Chains"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
@@ -134,7 +44,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="SideRailings"/>
+						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Unworked"/>
 					</Element>
 					<Element>
@@ -152,7 +62,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="SideRailings"/>
+						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Worked"/>
 					</Element>
 					<Element>
@@ -170,7 +80,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="SideRailings"/>
+						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Pillaged"/>
 					</Element>
 					<Element>
@@ -188,7 +98,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="SideRailings"/>
+						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Unbuilt"/>
 					</Element>
 					<Element>
@@ -206,97 +116,7 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="SideRailings"/>
-						<m_StateName text="Construction"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Pavement"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="Sides"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Pavement"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="Sides"/>
-						<m_StateName text="Worked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Pavement"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="Sides"/>
-						<m_StateName text="Pillaged"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Pavement"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="Sides"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Pavement"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="Sides"/>
+						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Construction"/>
 					</Element>
 					<Element>
@@ -386,96 +206,6 @@
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="TB_Pavement"/>
-						<m_MeshName text="TowerBridge"/>
-						<m_StateName text="Construction"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="TowerBridge"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="TowerBridge"/>
-						<m_StateName text="Worked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="TowerBridge"/>
-						<m_StateName text="Pillaged"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Railings"/>
-						<m_MeshName text="TowerBridge"/>
-						<m_StateName text="Unbuilt"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects:ObjectValue">
-									<m_ObjectName text="TB_Railings"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="TB_Railings"/>
 						<m_MeshName text="TowerBridge"/>
 						<m_StateName text="Construction"/>
 					</Element>
