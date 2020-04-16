@@ -1026,57 +1026,9 @@
                             </m_Values>
                         </m_CookParams>
                         <m_position>
-                            <x>-15.5127</x>
-                            <y>-26.7432</y>
-                            <z>0.1</z>
-                        </m_position>
-                        <m_orientation>
-                            <x>0.000000</x>
-                            <y>0.000000</y>
-                            <z>0.000000</z>
-                        </m_orientation>
-                        <m_Name text="Road_CP001"/>
-                        <m_BoneName text="WON_Dummy"/>
-                        <m_ModelInstanceName text="WON_Dummy"/>
-                        <m_scale>1.000000</m_scale>
-                    </Element>
-                    <Element>
-                        <m_CookParams>
-                            <m_Values>
-                                <Element class="AssetObjects..BLPEntryValue">
-                                    <m_EntryName text=""/>
-                                    <m_XLPClass text="TileBase"/>
-                                    <m_XLPPath text=""/>
-                                    <m_BLPPackage text=""/>
-                                    <m_LibraryName text="TileBase"/>
-                                    <m_ParamName text="Asset"/>
-                                </Element>
-                                <Element class="AssetObjects..StringValue">
-                                    <m_Value text="ROAD"/>
-                                    <m_ParamName text="ConnectionType"/>
-                                </Element>
-                                <Element class="AssetObjects..ArtDefReferenceValue">
-                                    <m_ElementName text="DON'T CARE"/>
-                                    <m_RootCollectionName text="ResourceTags"/>
-                                    <m_ArtDefPath text="Landmarks.artdef"/>
-                                    <m_CollectionIsLocked>true</m_CollectionIsLocked>
-                                    <m_TemplateName text="Landmarks"/>
-                                    <m_ParamName text="ResourceType"/>
-                                </Element>
-                                <Element class="AssetObjects..StringValue">
-                                    <m_Value text="Pivot Height"/>
-                                    <m_ParamName text="TerrainFollowMode"/>
-                                </Element>
-                                <Element class="AssetObjects..StringValue">
-                                    <m_Value text="OPTIONAL"/>
-                                    <m_ParamName text="Cull Mode"/>
-                                </Element>
-                            </m_Values>
-                        </m_CookParams>
-                        <m_position>
-                            <x>15.5444</x>
-                            <y>27.0491</y>
-                            <z>0.1</z>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
                         </m_position>
                         <m_orientation>
                             <x>0.000000</x>
@@ -1084,7 +1036,7 @@
                             <z>0.000000</z>
                         </m_orientation>
                         <m_Name text="Road_CP002"/>
-                        <m_BoneName text="WON_Dummy"/>
+                        <m_BoneName text="Road_CP002"/>
                         <m_ModelInstanceName text="WON_Dummy"/>
                         <m_scale>1.000000</m_scale>
                     </Element>
@@ -1122,9 +1074,57 @@
                             </m_Values>
                         </m_CookParams>
                         <m_position>
-                            <x>16.4866</x>
-                            <y>26.5037</y>
-                            <z>0.1</z>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
+                        </m_position>
+                        <m_orientation>
+                            <x>0.000000</x>
+                            <y>0.000000</y>
+                            <z>0.000000</z>
+                        </m_orientation>
+                        <m_Name text="Road_CP001"/>
+                        <m_BoneName text="Road_CP001"/>
+                        <m_ModelInstanceName text="WON_Dummy"/>
+                        <m_scale>1.000000</m_scale>
+                    </Element>
+                    <Element>
+                        <m_CookParams>
+                            <m_Values>
+                                <Element class="AssetObjects..BLPEntryValue">
+                                    <m_EntryName text=""/>
+                                    <m_XLPClass text="TileBase"/>
+                                    <m_XLPPath text=""/>
+                                    <m_BLPPackage text=""/>
+                                    <m_LibraryName text="TileBase"/>
+                                    <m_ParamName text="Asset"/>
+                                </Element>
+                                <Element class="AssetObjects..StringValue">
+                                    <m_Value text="ROAD"/>
+                                    <m_ParamName text="ConnectionType"/>
+                                </Element>
+                                <Element class="AssetObjects..ArtDefReferenceValue">
+                                    <m_ElementName text="DON'T CARE"/>
+                                    <m_RootCollectionName text="ResourceTags"/>
+                                    <m_ArtDefPath text="Landmarks.artdef"/>
+                                    <m_CollectionIsLocked>true</m_CollectionIsLocked>
+                                    <m_TemplateName text="Landmarks"/>
+                                    <m_ParamName text="ResourceType"/>
+                                </Element>
+                                <Element class="AssetObjects..StringValue">
+                                    <m_Value text="Pivot Height"/>
+                                    <m_ParamName text="TerrainFollowMode"/>
+                                </Element>
+                                <Element class="AssetObjects..StringValue">
+                                    <m_Value text="OPTIONAL"/>
+                                    <m_ParamName text="Cull Mode"/>
+                                </Element>
+                            </m_Values>
+                        </m_CookParams>
+                        <m_position>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
                         </m_position>
                         <m_orientation>
                             <x>0.000000</x>
@@ -1132,7 +1132,7 @@
                             <z>0.000000</z>
                         </m_orientation>
                         <m_Name text="Road_CP003"/>
-                        <m_BoneName text="WON_Dummy"/>
+                        <m_BoneName text="Road_CP003"/>
                         <m_ModelInstanceName text="WON_Dummy"/>
                         <m_scale>1.000000</m_scale>
                     </Element>
@@ -1170,9 +1170,9 @@
                             </m_Values>
                         </m_CookParams>
                         <m_position>
-                            <x>14.5206</x>
-                            <y>27.6402</y>
-                            <z>0.1</z>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
                         </m_position>
                         <m_orientation>
                             <x>0.000000</x>
@@ -1180,7 +1180,7 @@
                             <z>0.000000</z>
                         </m_orientation>
                         <m_Name text="Road_CP004"/>
-                        <m_BoneName text="WON_Dummy"/>
+                        <m_BoneName text="Road_CP004"/>
                         <m_ModelInstanceName text="WON_Dummy"/>
                         <m_scale>1.000000</m_scale>
                     </Element>
@@ -1218,9 +1218,9 @@
                             </m_Values>
                         </m_CookParams>
                         <m_position>
-                            <x>-14.3669</x>
-                            <y>-27.4048</y>
-                            <z>0.1</z>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
                         </m_position>
                         <m_orientation>
                             <x>0.000000</x>
@@ -1228,7 +1228,7 @@
                             <z>0.000000</z>
                         </m_orientation>
                         <m_Name text="Road_CP005"/>
-                        <m_BoneName text="WON_Dummy"/>
+                        <m_BoneName text="Road_CP005"/>
                         <m_ModelInstanceName text="WON_Dummy"/>
                         <m_scale>1.000000</m_scale>
                     </Element>
@@ -1266,9 +1266,9 @@
                             </m_Values>
                         </m_CookParams>
                         <m_position>
-                            <x>-16.402</x>
-                            <y>-26.2298</y>
-                            <z>0.1</z>
+                            <x>0</x>
+                            <y>0</y>
+                            <z>0</z>
                         </m_position>
                         <m_orientation>
                             <x>0.000000</x>
@@ -1276,7 +1276,7 @@
                             <z>0.000000</z>
                         </m_orientation>
                         <m_Name text="Road_CP006"/>
-                        <m_BoneName text="WON_Dummy"/>
+                        <m_BoneName text="Road_CP006"/>
                         <m_ModelInstanceName text="WON_Dummy"/>
                         <m_scale>1.000000</m_scale>
                     </Element>
@@ -1357,7 +1357,7 @@
             </Element>
             <Element>
                 <m_Name text="WON_Dummy"/>
-                <m_GeoName text="WON_Dummy"/>
+                <m_GeoName text="WON_Dummy_GG"/>
                 <m_GroupStates>
                     <Element>
                         <m_Values>
