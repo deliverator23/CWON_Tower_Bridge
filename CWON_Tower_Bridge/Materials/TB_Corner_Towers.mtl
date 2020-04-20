@@ -13,7 +13,7 @@
                 <m_ParamName text="Normal"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="White_AO"/>
+                <m_ObjectName text="Corner_Towers_ao"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="AO"/>
             </Element>
