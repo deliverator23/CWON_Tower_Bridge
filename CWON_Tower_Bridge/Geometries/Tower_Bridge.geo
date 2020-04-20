@@ -56,22 +56,22 @@
 <Element>
 <m_Name text="TB_Coat_of_Arms"/>
 <m_nFirstPrim>2714</m_nFirstPrim>
-<m_nPrims>26</m_nPrims>
+<m_nPrims>8</m_nPrims>
 </Element>
 <Element>
 <m_Name text="TB_Attic"/>
-<m_nFirstPrim>2740</m_nFirstPrim>
+<m_nFirstPrim>2722</m_nFirstPrim>
 <m_nPrims>80</m_nPrims>
 </Element>
 <Element>
 <m_Name text="TB_Chains"/>
-<m_nFirstPrim>2820</m_nFirstPrim>
+<m_nFirstPrim>2802</m_nFirstPrim>
 <m_nPrims>240</m_nPrims>
 </Element>
 </m_Groups>
 <m_nBoundBoneCount>1</m_nBoundBoneCount>
-<m_nPrimitiveCount>3060</m_nPrimitiveCount>
-<m_nVertexCount>5396</m_nVertexCount>
+<m_nPrimitiveCount>3042</m_nPrimitiveCount>
+<m_nVertexCount>5348</m_nVertexCount>
 </Element>
 </m_Meshes>
 <m_Bones>

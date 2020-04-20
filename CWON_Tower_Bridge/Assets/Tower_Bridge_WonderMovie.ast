@@ -512,7 +512,7 @@
 						<m_CookParams>
 							<m_Values>
 								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text=""/>
+									<m_EntryName text="Tower_Bridge_HB"/>
 									<m_XLPClass text="TileBase"/>
 									<m_XLPPath text="tilebases.xlp"/>
 									<m_BLPPackage text="landmarks/tilebases"/>
